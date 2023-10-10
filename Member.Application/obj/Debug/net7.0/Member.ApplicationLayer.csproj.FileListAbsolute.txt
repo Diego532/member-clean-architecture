@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\developments\MemberCleanArchitecture\Member.Application\bin\Debug\net7.0\Member.ApplicationLayer.deps.json
+C:\Users\Diego\Documents\developments\MemberCleanArchitecture\Member.Application\bin\Debug\net7.0\Member.ApplicationLayer.dll
+C:\Users\Diego\Documents\developments\MemberCleanArchitecture\Member.Application\bin\Debug\net7.0\Member.ApplicationLayer.pdb
+C:\Users\Diego\Documents\developments\MemberCleanArchitecture\Member.Application\bin\Debug\net7.0\Member.Domain.dll
+C:\Users\Diego\Documents\developments\MemberCleanArchitecture\Member.Application\bin\Debug\net7.0\Member.Domain.pdb
+C:\Users\Diego\Documents\developments\MemberCleanArchitecture\Member.Application\obj\Debug\net7.0\Member.ApplicationLayer.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\developments\MemberCleanArchitecture\Member.Application\obj\Debug\net7.0\Member.ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\developments\MemberCleanArchitecture\Member.Application\obj\Debug\net7.0\Member.ApplicationLayer.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\developments\MemberCleanArchitecture\Member.Application\obj\Debug\net7.0\Member.ApplicationLayer.AssemblyInfo.cs
+C:\Users\Diego\Documents\developments\MemberCleanArchitecture\Member.Application\obj\Debug\net7.0\Member.ApplicationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\developments\MemberCleanArchitecture\Member.Application\obj\Debug\net7.0\Member.ApplicationLayer.csproj.CopyComplete
+C:\Users\Diego\Documents\developments\MemberCleanArchitecture\Member.Application\obj\Debug\net7.0\Member.ApplicationLayer.dll
+C:\Users\Diego\Documents\developments\MemberCleanArchitecture\Member.Application\obj\Debug\net7.0\refint\Member.ApplicationLayer.dll
+C:\Users\Diego\Documents\developments\MemberCleanArchitecture\Member.Application\obj\Debug\net7.0\Member.ApplicationLayer.pdb
+C:\Users\Diego\Documents\developments\MemberCleanArchitecture\Member.Application\obj\Debug\net7.0\ref\Member.ApplicationLayer.dll

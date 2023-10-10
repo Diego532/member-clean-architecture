@@ -1,0 +1,17 @@
+C:\Users\Diego\Documents\developments\MemberCleanArchitecture\Member.Infrastructure\bin\Debug\net7.0\Member.Infrastructure.deps.json
+C:\Users\Diego\Documents\developments\MemberCleanArchitecture\Member.Infrastructure\bin\Debug\net7.0\Member.Infrastructure.dll
+C:\Users\Diego\Documents\developments\MemberCleanArchitecture\Member.Infrastructure\bin\Debug\net7.0\Member.Infrastructure.pdb
+C:\Users\Diego\Documents\developments\MemberCleanArchitecture\Member.Infrastructure\bin\Debug\net7.0\Member.Domain.dll
+C:\Users\Diego\Documents\developments\MemberCleanArchitecture\Member.Infrastructure\bin\Debug\net7.0\Member.Domain.pdb
+C:\Users\Diego\Documents\developments\MemberCleanArchitecture\Member.Infrastructure\obj\Debug\net7.0\Member.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\developments\MemberCleanArchitecture\Member.Infrastructure\obj\Debug\net7.0\Member.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\developments\MemberCleanArchitecture\Member.Infrastructure\obj\Debug\net7.0\Member.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\developments\MemberCleanArchitecture\Member.Infrastructure\obj\Debug\net7.0\Member.Infrastructure.AssemblyInfo.cs
+C:\Users\Diego\Documents\developments\MemberCleanArchitecture\Member.Infrastructure\obj\Debug\net7.0\Member.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\developments\MemberCleanArchitecture\Member.Infrastructure\obj\Debug\net7.0\Member.Infrastructure.csproj.CopyComplete
+C:\Users\Diego\Documents\developments\MemberCleanArchitecture\Member.Infrastructure\obj\Debug\net7.0\Member.Infrastructure.dll
+C:\Users\Diego\Documents\developments\MemberCleanArchitecture\Member.Infrastructure\obj\Debug\net7.0\refint\Member.Infrastructure.dll
+C:\Users\Diego\Documents\developments\MemberCleanArchitecture\Member.Infrastructure\obj\Debug\net7.0\Member.Infrastructure.pdb
+C:\Users\Diego\Documents\developments\MemberCleanArchitecture\Member.Infrastructure\obj\Debug\net7.0\ref\Member.Infrastructure.dll
+C:\Users\Diego\Documents\developments\MemberCleanArchitecture\Member.Infrastructure\bin\Debug\net7.0\Member.ApplicationLayer.dll
+C:\Users\Diego\Documents\developments\MemberCleanArchitecture\Member.Infrastructure\bin\Debug\net7.0\Member.ApplicationLayer.pdb
